@@ -1,24 +1,24 @@
 <div align="center">
 
 ```
-███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗
-██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗
-███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝
-╚════██║   ██║   ██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗
-███████║   ██║   ██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+███████╗ █████╗ ███╗   ██╗ ██████╗████████╗██╗   ██╗███╗   ███╗
+██╔════╝██╔══██╗████╗  ██║██╔════╝╚══██╔══╝██║   ██║████╗ ████║
+███████╗███████║██╔██╗ ██║██║        ██║   ██║   ██║██╔████╔██║
+╚════██║██╔══██║██║╚██╗██║██║        ██║   ██║   ██║██║╚██╔╝██║
+███████║██║  ██║██║ ╚████║╚██████╗   ██║   ╚██████╔╝██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
 ```
 
 ### Full-Stack Developer · Laravel Artisan · React Enthusiast
 
-[![Profile Views](https://komarev.com/ghpvc/?username=stranger&color=6366f1&style=flat-square&label=profile+views)](https://github.com/stranger)
-[![Repos](https://img.shields.io/badge/repos-open%20source-6366f1?style=flat-square)](https://github.com/stranger?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanctum&color=6366f1&style=flat-square&label=profile+views)](https://github.com/sanctum-hashed)
+[![Repos](https://img.shields.io/badge/repos-open%20source-6366f1?style=flat-square)](https://github.com/sanctum-hashed?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 Hey there, I'm Stranger
+## 👋 Hey there, I'm Sanctum
 
 I build things for the web — clean APIs, reactive interfaces, and everything in between. My stack lives at the intersection of **PHP/Laravel** on the server and **React** on the client, which means I'm equally comfortable writing an Eloquent query and debugging a `useEffect`.
 
@@ -62,8 +62,8 @@ const stack = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=strangerwoods&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerwoods&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sanctum-hashed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanctum-hashed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
